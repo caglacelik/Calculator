@@ -1,4 +1,4 @@
 # Calculator
-This is an object oriented project which is calculator, little position guessing game and also 
+This is an object oriented class project which is calculator, little position guessing game and also 
 encrypts the string received from the user using Ceaser or Vigenere Cipher.
-This including login and registration processes for users.
+This also includs login and registration processes for users.
